@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="A1Z26.cs" />
+    <Compile Include="ASCII.cs" />
     <Compile Include="Atbash.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
